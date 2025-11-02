@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Margem de Lucro",
+  "description": "Uma aplicação web para importar um arquivo CSV com custos, calcular preços de venda com base em uma margem de lucro ajustável e exportar o resultado.",
+  "requestFramePermissions": []
+}
